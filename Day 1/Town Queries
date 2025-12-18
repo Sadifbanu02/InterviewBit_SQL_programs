@@ -1,0 +1,3 @@
+SELECT * 
+from Towns
+where Population > 1000;
