@@ -1,0 +1,3 @@
+SELECT * 
+FROM STUDY
+WHERE Marks > 80;
