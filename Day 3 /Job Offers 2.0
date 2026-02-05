@@ -1,0 +1,12 @@
+select
+sum(distinct Salary) as Salary
+from (
+select s.Id,
+s.Name,
+s.DepartmentId,
+j.Salary
+from Students s, Jobs j
+where s.Id = j.Id
+and (select DepartmentName from Departments where Departments.DepartmentId=s.DepartmentId)='CSE'
+) x
+group by DepartmentId
