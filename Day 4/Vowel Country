@@ -1,0 +1,4 @@
+SELECT 
+sum(LOWER(RIGHT(COUNTRY, 1)) IN ('a', 'e', 'i', 'o', 'u'))AS
+"COUNT(Country)"
+FROM PLACES;
