@@ -1,0 +1,5 @@
+select b.id
+from Books b 
+JOIN BoughtBooks bb ON b.id = bb.Booksid
+group by b.id
+HAVING COUNT(bb.id)>=3; 
