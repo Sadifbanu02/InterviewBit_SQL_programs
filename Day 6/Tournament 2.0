@@ -1,0 +1,6 @@
+select
+round(sum(Result)/count(*),4) as 'Percentage Wins'
+from Matches
+where PlayerId2 not in (select Id from Team2 where Cheater=1)
+group by Date
+order by Date;
