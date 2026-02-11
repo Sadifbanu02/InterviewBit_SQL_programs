@@ -1,0 +1,10 @@
+select CONCAT(DepartmentName,',',Name,',',GPA) as A 
+from Students s
+join Departments d
+on s.DepartmentId = d.DepartmentId
+where (s.DepartmentId, s.GPA) in(
+select DepartmentId, min(GPA) as GPA
+from Students
+group BY DepartmentId
+)
+order by DepartmentName;
