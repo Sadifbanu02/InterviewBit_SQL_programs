@@ -1,0 +1,7 @@
+SELECT Name 
+FROM Students
+order by 
+CASE 
+WHEN UPPER(LEFT(NAME,1)) IN ('A','E','I','O','U')
+THEN LEAST(Marks1,Marks2)
+else greatest(Marks1,Marks2) END desc; 
