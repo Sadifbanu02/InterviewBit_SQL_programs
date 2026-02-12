@@ -1,0 +1,4 @@
+SELECT  sum(if(month(Date)='11',1,0)) AS Job_Offers
+FROM Students s left join Jobs j on s.id=j.id
+group by s.id
+order by s.id;
