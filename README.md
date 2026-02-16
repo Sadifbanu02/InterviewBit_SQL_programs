@@ -72,3 +72,26 @@ Run the SQL files against a database like MySQL, PostgreSQL, Oracle, or any SQL 
 🛠️ Setup
 
 To practice locally:
+Install an SQL database (e.g., MySQL or PostgreSQL).
+
+Create sample tables and insert data.
+
+Execute the .sql scripts provided in this repo.
+
+🚀 Get Better With Practice
+
+Try rewriting the queries from scratch and test them with different data.
+
+Compare results with expected outputs and optimize where possible.
+
+Refactor for readability and performance.
+
+✨ Want to Contribute?
+
+Feel free to:
+
+Add missing problems with solutions.
+
+Improve formatting and readability.
+
+Share explanations for query logic.
