@@ -23,7 +23,7 @@ The InterviewBit Databases: SQL Queries course is designed to build your SQL ski
 📂 Course Sections & Example Topics
 ---
 ## ✅ 1. Basic Select Queries
-
+    
 Town Selection
 
 Student Query
