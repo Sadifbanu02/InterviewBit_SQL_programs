@@ -9,7 +9,7 @@ The InterviewBit Databases: SQL Queries course is designed to build your SQL ski
 - The course teaches you how to:                                                          
                                                                    
 - Use basic SQL commands like SELECT, INSERT, UPDATE, and DELETE.                                                     
- 
+                 
 - Retrieve and filter data efficiently from one or more tables.                                                             
                                                                      
 - Work with aggregation functions such as SUM(), AVG(), COUNT(), MAX(), and MIN().
