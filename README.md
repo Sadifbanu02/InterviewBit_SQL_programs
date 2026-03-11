@@ -14,7 +14,7 @@ The InterviewBit Databases: SQL Queries course is designed to build your SQL ski
                                                                          
 - Work with aggregation functions such as SUM(), AVG(), COUNT(), MAX(), and MIN().
 
-- Write subqueries and nested queries.
+- Write subqueries and nested queries.   
 
 - Combine data using joins (INNER JOIN, LEFT JOIN, etc.).  
 
