@@ -6,7 +6,7 @@ The InterviewBit Databases: SQL Queries course is designed to build your SQL ski
 ---                              
 ## 🧠 What You’ll Learn                            
 ---                                                                                                                       
-- The course teaches you how to:                                                          
+- The course teaches you how to:                                                              
                                                                                
 -    Use basic SQL commands like SELECT, INSERT, UPDATE, and DELETE.                                                     
                  
