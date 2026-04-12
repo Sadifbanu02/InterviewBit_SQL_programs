@@ -4,7 +4,7 @@
 
 The InterviewBit Databases: SQL Queries course is designed to build your SQL skills from basic to intermediate query-writing techniques. The course focuses on solving real SQL problems that are frequently asked in technical interviews and used in real data work.                   
 ---                                 
-## 🧠 What You’ll Learn                                                               
+## 🧠 What You’ll Learn                                                                       
 ---                                                                                                                                           
 -   The course teaches you how to:                                                                            
                                                        
