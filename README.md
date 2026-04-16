@@ -71,7 +71,7 @@ Inside each folder, you’ll find .sql files with sample solutions to the exerci
 
 Run the SQL files against a database like MySQL, PostgreSQL, Oracle, or any SQL engine of your choice.
 
-# 🛠️ Setup
+# 🛠️ Setup   
 --
 To practice locally:
 Install an SQL database (e.g., MySQL or PostgreSQL).
