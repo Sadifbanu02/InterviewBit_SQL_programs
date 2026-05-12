@@ -16,7 +16,7 @@ The InterviewBit Databases: SQL Queries course is designed to build your SQL ski
    
 - Write subqueries and nested queries.   
 
-- Combine data using joins (INNER JOIN, LEFT JOIN , etc.).      
+- Combine data using joins (INNER JOIN, LEFT JOIN , etc.).            
 
 - Handle advanced SELECTs with conditional logic and sorting.
 
